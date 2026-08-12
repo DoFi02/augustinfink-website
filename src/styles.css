@@ -95,7 +95,7 @@ a {
   z-index: 1;
   max-width: 7.1ch;
   margin: 0 0 0 var(--inside-x);
-  font-size: clamp(3.99rem, 9.215vw, 10.26rem);
+  font-size: clamp(3.591rem, 8.2935vw, 9.234rem);
   line-height: 0.86;
   font-weight: 800;
   color: var(--ink);
