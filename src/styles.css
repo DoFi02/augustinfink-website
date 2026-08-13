@@ -89,22 +89,6 @@ a {
   overflow: hidden;
 }
 
-.quiet-field h1 {
-  position: absolute;
-  top: 50%;
-  z-index: 1;
-  max-width: 7.1ch;
-  margin: 0 0 0 var(--inside-x);
-  font-size: clamp(3.591rem, 8.2935vw, 9.234rem);
-  line-height: 0.86;
-  font-weight: 800;
-  color: var(--ink);
-  text-transform: uppercase;
-  letter-spacing: 0;
-  transform: translateY(-50%);
-  pointer-events: none;
-}
-
 .roundabout-embed {
   position: absolute;
   top: 0;
@@ -244,7 +228,6 @@ a {
     padding-right: 0;
   }
 
-  .quiet-field h1,
   .legal-content h1 {
     max-width: none;
   }
